@@ -1,5 +1,5 @@
 {
-    "name": "BtnR BtnB",
+    "name": "Simultaneous press",
     "description": "",
     "dependencies": {
         "core": "*",
